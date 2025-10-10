@@ -1,0 +1,151 @@
+[
+  {
+    "_id": "68e21e9d603dfbe46467c373",
+    "quizId": "68e2128f37bf7e61bd5b4adf",
+    "userId": "68e21e3b603dfbe46467c364",
+    "answers": [],
+    "score": 0,
+    "total": 0,
+    "timeTakenSeconds": 300,
+    "createdAt": "2025-10-05T07:30:37.240Z",
+    "updatedAt": "2025-10-05T07:30:37.240Z",
+    "__v": 0
+  },
+  {
+    "_id": "68e21f6dce599444149ae99a",
+    "quizId": "68e21ed220e29217c361113b",
+    "userId": "68e21e3b603dfbe46467c364",
+    "answers": [
+      {
+        "questionId": "68e21ed220e29217c361111c",
+        "selected": 1,
+        "isCorrect": true,
+        "_id": "68e21f6dce599444149ae99b"
+      },
+      {
+        "questionId": "68e21ed220e29217c361111e",
+        "selected": 1,
+        "isCorrect": true,
+        "_id": "68e21f6dce599444149ae99c"
+      },
+      {
+        "questionId": "68e21ed220e29217c361111d",
+        "selected": 1,
+        "isCorrect": true,
+        "_id": "68e21f6dce599444149ae99d"
+      }
+    ],
+    "score": 3,
+    "total": 3,
+    "timeTakenSeconds": 300,
+    "createdAt": "2025-10-05T07:34:05.485Z",
+    "updatedAt": "2025-10-05T07:34:05.485Z",
+    "__v": 0
+  },
+  {
+    "_id": "68e2217f2fbdd103a4c73740",
+    "quizId": "68e22126924448cb8a5b10e1",
+    "userId": "68e21e3b603dfbe46467c364",
+    "answers": [
+      {
+        "questionId": "68e22126924448cb8a5b10db",
+        "selected": 0,
+        "isCorrect": false,
+        "_id": "68e2217f2fbdd103a4c73741"
+      },
+      {
+        "questionId": "68e22126924448cb8a5b10dd",
+        "selected": 0,
+        "isCorrect": false,
+        "_id": "68e2217f2fbdd103a4c73742"
+      },
+      {
+        "questionId": "68e22126924448cb8a5b10df",
+        "selected": 3,
+        "isCorrect": false,
+        "_id": "68e2217f2fbdd103a4c73743"
+      }
+    ],
+    "score": 0,
+    "total": 3,
+    "timeTakenSeconds": 300,
+    "createdAt": "2025-10-05T07:42:55.824Z",
+    "updatedAt": "2025-10-05T07:42:55.824Z",
+    "__v": 0
+  },
+  {
+    "_id": "68e2218e2fbdd103a4c73767",
+    "quizId": "68e22126924448cb8a5b10e1",
+    "userId": "68e21e3b603dfbe46467c364",
+    "answers": [
+      {
+        "questionId": "68e22126924448cb8a5b10db",
+        "selected": 2,
+        "isCorrect": false,
+        "_id": "68e2218e2fbdd103a4c73768"
+      },
+      {
+        "questionId": "68e22126924448cb8a5b10df",
+        "selected": 2,
+        "isCorrect": false,
+        "_id": "68e2218e2fbdd103a4c73769"
+      }
+    ],
+    "score": 0,
+    "total": 2,
+    "timeTakenSeconds": 300,
+    "createdAt": "2025-10-05T07:43:10.821Z",
+    "updatedAt": "2025-10-05T07:43:10.821Z",
+    "__v": 0
+  },
+  {
+    "_id": "68e2219b2fbdd103a4c73791",
+    "quizId": "68e22126924448cb8a5b10e9",
+    "userId": "68e21e3b603dfbe46467c364",
+    "answers": [
+      {
+        "questionId": "68e22126924448cb8a5b10e3",
+        "selected": 1,
+        "isCorrect": true,
+        "_id": "68e2219b2fbdd103a4c73792"
+      }
+    ],
+    "score": 1,
+    "total": 1,
+    "timeTakenSeconds": 300,
+    "createdAt": "2025-10-05T07:43:23.270Z",
+    "updatedAt": "2025-10-05T07:43:23.270Z",
+    "__v": 0
+  },
+  {
+    "_id": "68e221b12fbdd103a4c737bc",
+    "quizId": "68e22126924448cb8a5b1111",
+    "userId": "68e21e3b603dfbe46467c364",
+    "answers": [
+      {
+        "questionId": "68e22126924448cb8a5b110b",
+        "selected": 2,
+        "isCorrect": true,
+        "_id": "68e221b12fbdd103a4c737bd"
+      },
+      {
+        "questionId": "68e22126924448cb8a5b110d",
+        "selected": 1,
+        "isCorrect": false,
+        "_id": "68e221b12fbdd103a4c737be"
+      },
+      {
+        "questionId": "68e22126924448cb8a5b110f",
+        "selected": 1,
+        "isCorrect": true,
+        "_id": "68e221b12fbdd103a4c737bf"
+      }
+    ],
+    "score": 2,
+    "total": 3,
+    "timeTakenSeconds": 300,
+    "createdAt": "2025-10-05T07:43:45.478Z",
+    "updatedAt": "2025-10-05T07:43:45.478Z",
+    "__v": 0
+  }
+]

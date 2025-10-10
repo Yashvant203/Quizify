@@ -1,0 +1,162 @@
+[
+  {
+    "_id": "68e22126924448cb8a5b10c9",
+    "title": "General Science Quiz",
+    "description": "A short General Science Quiz to test fundamental knowledge.",
+    "questionIds": [
+      "68e22126924448cb8a5b10c3",
+      "68e22126924448cb8a5b10c5",
+      "68e22126924448cb8a5b10c7"
+    ],
+    "timeLimitMinutes": 10,
+    "isPublished": true,
+    "createdBy": "68e21e3b603dfbe46467c364",
+    "createdAt": "2025-10-05T07:41:26.889Z",
+    "updatedAt": "2025-10-05T07:41:26.889Z",
+    "__v": 0
+  },
+  {
+    "_id": "68e22126924448cb8a5b10d1",
+    "title": "World History Quiz",
+    "description": "A short World History Quiz to test fundamental knowledge.",
+    "questionIds": [
+      "68e22126924448cb8a5b10cb",
+      "68e22126924448cb8a5b10cd",
+      "68e22126924448cb8a5b10cf"
+    ],
+    "timeLimitMinutes": 10,
+    "isPublished": true,
+    "createdBy": "68e21e3b603dfbe46467c364",
+    "createdAt": "2025-10-05T07:41:26.896Z",
+    "updatedAt": "2025-10-05T07:41:26.896Z",
+    "__v": 0
+  },
+  {
+    "_id": "68e22126924448cb8a5b10d9",
+    "title": "Geography Quiz",
+    "description": "A short Geography Quiz to test fundamental knowledge.",
+    "questionIds": [
+      "68e22126924448cb8a5b10d3",
+      "68e22126924448cb8a5b10d5",
+      "68e22126924448cb8a5b10d7"
+    ],
+    "timeLimitMinutes": 10,
+    "isPublished": true,
+    "createdBy": "68e21e3b603dfbe46467c364",
+    "createdAt": "2025-10-05T07:41:26.902Z",
+    "updatedAt": "2025-10-05T07:41:26.902Z",
+    "__v": 0
+  },
+  {
+    "_id": "68e22126924448cb8a5b10e1",
+    "title": "English Quiz",
+    "description": "A short English Quiz to test fundamental knowledge.",
+    "questionIds": [
+      "68e22126924448cb8a5b10db",
+      "68e22126924448cb8a5b10dd",
+      "68e22126924448cb8a5b10df"
+    ],
+    "timeLimitMinutes": 10,
+    "isPublished": true,
+    "createdBy": "68e21e3b603dfbe46467c364",
+    "createdAt": "2025-10-05T07:41:26.907Z",
+    "updatedAt": "2025-10-05T07:41:26.907Z",
+    "__v": 0
+  },
+  {
+    "_id": "68e22126924448cb8a5b10e9",
+    "title": "Computer Science Quiz",
+    "description": "A short Computer Science Quiz to test fundamental knowledge.",
+    "questionIds": [
+      "68e22126924448cb8a5b10e3",
+      "68e22126924448cb8a5b10e5",
+      "68e22126924448cb8a5b10e7"
+    ],
+    "timeLimitMinutes": 10,
+    "isPublished": true,
+    "createdBy": "68e21e3b603dfbe46467c364",
+    "createdAt": "2025-10-05T07:41:26.914Z",
+    "updatedAt": "2025-10-05T07:41:26.914Z",
+    "__v": 0
+  },
+  {
+    "_id": "68e22126924448cb8a5b10f1",
+    "title": "Physics Quiz",
+    "description": "A short Physics Quiz to test fundamental knowledge.",
+    "questionIds": [
+      "68e22126924448cb8a5b10eb",
+      "68e22126924448cb8a5b10ed",
+      "68e22126924448cb8a5b10ef"
+    ],
+    "timeLimitMinutes": 10,
+    "isPublished": true,
+    "createdBy": "68e21e3b603dfbe46467c364",
+    "createdAt": "2025-10-05T07:41:26.920Z",
+    "updatedAt": "2025-10-05T07:41:26.920Z",
+    "__v": 0
+  },
+  {
+    "_id": "68e22126924448cb8a5b10f9",
+    "title": "Chemistry Quiz",
+    "description": "A short Chemistry Quiz to test fundamental knowledge.",
+    "questionIds": [
+      "68e22126924448cb8a5b10f3",
+      "68e22126924448cb8a5b10f5",
+      "68e22126924448cb8a5b10f7"
+    ],
+    "timeLimitMinutes": 10,
+    "isPublished": true,
+    "createdBy": "68e21e3b603dfbe46467c364",
+    "createdAt": "2025-10-05T07:41:26.927Z",
+    "updatedAt": "2025-10-05T07:41:26.927Z",
+    "__v": 0
+  },
+  {
+    "_id": "68e22126924448cb8a5b1101",
+    "title": "Biology Quiz",
+    "description": "A short Biology Quiz to test fundamental knowledge.",
+    "questionIds": [
+      "68e22126924448cb8a5b10fb",
+      "68e22126924448cb8a5b10fd",
+      "68e22126924448cb8a5b10ff"
+    ],
+    "timeLimitMinutes": 10,
+    "isPublished": true,
+    "createdBy": "68e21e3b603dfbe46467c364",
+    "createdAt": "2025-10-05T07:41:26.935Z",
+    "updatedAt": "2025-10-05T07:41:26.935Z",
+    "__v": 0
+  },
+  {
+    "_id": "68e22126924448cb8a5b1109",
+    "title": "Economics Quiz",
+    "description": "A short Economics Quiz to test fundamental knowledge.",
+    "questionIds": [
+      "68e22126924448cb8a5b1103",
+      "68e22126924448cb8a5b1105",
+      "68e22126924448cb8a5b1107"
+    ],
+    "timeLimitMinutes": 10,
+    "isPublished": true,
+    "createdBy": "68e21e3b603dfbe46467c364",
+    "createdAt": "2025-10-05T07:41:26.943Z",
+    "updatedAt": "2025-10-05T07:41:26.943Z",
+    "__v": 0
+  },
+  {
+    "_id": "68e22126924448cb8a5b1111",
+    "title": "Art & Culture Quiz",
+    "description": "A short Art & Culture Quiz to test fundamental knowledge.",
+    "questionIds": [
+      "68e22126924448cb8a5b110b",
+      "68e22126924448cb8a5b110d",
+      "68e22126924448cb8a5b110f"
+    ],
+    "timeLimitMinutes": 10,
+    "isPublished": true,
+    "createdBy": "68e21e3b603dfbe46467c364",
+    "createdAt": "2025-10-05T07:41:26.950Z",
+    "updatedAt": "2025-10-05T07:41:26.950Z",
+    "__v": 0
+  }
+]

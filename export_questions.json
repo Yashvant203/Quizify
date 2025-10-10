@@ -1,0 +1,1097 @@
+[
+  {
+    "_id": "68e2126e37bf7e61bd5b4adc",
+    "text": "What is 2 + 2?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctOptionIndex": 2,
+    "tags": [
+      "math",
+      "easy"
+    ]
+  },
+  {
+    "_id": "68e21ed220e29217c361111c",
+    "text": "Sample question 1: What is 1 + 1?",
+    "options": [
+      "1",
+      "2",
+      "2",
+      "0"
+    ],
+    "correctOptionIndex": 1,
+    "tags": [
+      "sample",
+      "math"
+    ],
+    "__v": 0,
+    "createdAt": "2025-10-05T07:31:30.409Z",
+    "updatedAt": "2025-10-05T07:31:30.409Z"
+  },
+  {
+    "_id": "68e21ed220e29217c361111d",
+    "text": "Sample question 2: What is 2 + 2?",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "1"
+    ],
+    "correctOptionIndex": 1,
+    "tags": [
+      "sample",
+      "math"
+    ],
+    "__v": 0,
+    "createdAt": "2025-10-05T07:31:30.411Z",
+    "updatedAt": "2025-10-05T07:31:30.411Z"
+  },
+  {
+    "_id": "68e21ed220e29217c361111e",
+    "text": "Sample question 3: What is 3 + 3?",
+    "options": [
+      "3",
+      "6",
+      "4",
+      "2"
+    ],
+    "correctOptionIndex": 1,
+    "tags": [
+      "sample",
+      "math"
+    ],
+    "__v": 0,
+    "createdAt": "2025-10-05T07:31:30.411Z",
+    "updatedAt": "2025-10-05T07:31:30.411Z"
+  },
+  {
+    "_id": "68e21ed220e29217c361111f",
+    "text": "Sample question 4: What is 4 + 4?",
+    "options": [
+      "4",
+      "8",
+      "5",
+      "3"
+    ],
+    "correctOptionIndex": 1,
+    "tags": [
+      "sample",
+      "math"
+    ],
+    "__v": 0,
+    "createdAt": "2025-10-05T07:31:30.411Z",
+    "updatedAt": "2025-10-05T07:31:30.411Z"
+  },
+  {
+    "_id": "68e21ed220e29217c3611120",
+    "text": "Sample question 5: What is 5 + 5?",
+    "options": [
+      "5",
+      "10",
+      "6",
+      "4"
+    ],
+    "correctOptionIndex": 1,
+    "tags": [
+      "sample",
+      "math"
+    ],
+    "__v": 0,
+    "createdAt": "2025-10-05T07:31:30.411Z",
+    "updatedAt": "2025-10-05T07:31:30.411Z"
+  },
+  {
+    "_id": "68e21ed220e29217c3611121",
+    "text": "Sample question 6: What is 6 + 6?",
+    "options": [
+      "6",
+      "12",
+      "7",
+      "5"
+    ],
+    "correctOptionIndex": 1,
+    "tags": [
+      "sample",
+      "math"
+    ],
+    "__v": 0,
+    "createdAt": "2025-10-05T07:31:30.411Z",
+    "updatedAt": "2025-10-05T07:31:30.411Z"
+  },
+  {
+    "_id": "68e21ed220e29217c3611122",
+    "text": "Sample question 7: What is 7 + 7?",
+    "options": [
+      "7",
+      "14",
+      "8",
+      "6"
+    ],
+    "correctOptionIndex": 1,
+    "tags": [
+      "sample",
+      "math"
+    ],
+    "__v": 0,
+    "createdAt": "2025-10-05T07:31:30.411Z",
+    "updatedAt": "2025-10-05T07:31:30.411Z"
+  },
+  {
+    "_id": "68e21ed220e29217c3611123",
+    "text": "Sample question 8: What is 8 + 8?",
+    "options": [
+      "8",
+      "16",
+      "9",
+      "7"
+    ],
+    "correctOptionIndex": 1,
+    "tags": [
+      "sample",
+      "math"
+    ],
+    "__v": 0,
+    "createdAt": "2025-10-05T07:31:30.411Z",
+    "updatedAt": "2025-10-05T07:31:30.411Z"
+  },
+  {
+    "_id": "68e21ed220e29217c3611124",
+    "text": "Sample question 9: What is 9 + 9?",
+    "options": [
+      "9",
+      "18",
+      "10",
+      "8"
+    ],
+    "correctOptionIndex": 1,
+    "tags": [
+      "sample",
+      "math"
+    ],
+    "__v": 0,
+    "createdAt": "2025-10-05T07:31:30.411Z",
+    "updatedAt": "2025-10-05T07:31:30.411Z"
+  },
+  {
+    "_id": "68e21ed220e29217c3611125",
+    "text": "Sample question 10: What is 10 + 10?",
+    "options": [
+      "10",
+      "20",
+      "11",
+      "9"
+    ],
+    "correctOptionIndex": 1,
+    "tags": [
+      "sample",
+      "math"
+    ],
+    "__v": 0,
+    "createdAt": "2025-10-05T07:31:30.412Z",
+    "updatedAt": "2025-10-05T07:31:30.412Z"
+  },
+  {
+    "_id": "68e21ed220e29217c3611126",
+    "text": "Sample question 11: What is 11 + 11?",
+    "options": [
+      "11",
+      "22",
+      "12",
+      "10"
+    ],
+    "correctOptionIndex": 1,
+    "tags": [
+      "sample",
+      "math"
+    ],
+    "__v": 0,
+    "createdAt": "2025-10-05T07:31:30.412Z",
+    "updatedAt": "2025-10-05T07:31:30.412Z"
+  },
+  {
+    "_id": "68e21ed220e29217c3611127",
+    "text": "Sample question 12: What is 12 + 12?",
+    "options": [
+      "12",
+      "24",
+      "13",
+      "11"
+    ],
+    "correctOptionIndex": 1,
+    "tags": [
+      "sample",
+      "math"
+    ],
+    "__v": 0,
+    "createdAt": "2025-10-05T07:31:30.412Z",
+    "updatedAt": "2025-10-05T07:31:30.412Z"
+  },
+  {
+    "_id": "68e21ed220e29217c3611128",
+    "text": "Sample question 13: What is 13 + 13?",
+    "options": [
+      "13",
+      "26",
+      "14",
+      "12"
+    ],
+    "correctOptionIndex": 1,
+    "tags": [
+      "sample",
+      "math"
+    ],
+    "__v": 0,
+    "createdAt": "2025-10-05T07:31:30.412Z",
+    "updatedAt": "2025-10-05T07:31:30.412Z"
+  },
+  {
+    "_id": "68e21ed220e29217c3611129",
+    "text": "Sample question 14: What is 14 + 14?",
+    "options": [
+      "14",
+      "28",
+      "15",
+      "13"
+    ],
+    "correctOptionIndex": 1,
+    "tags": [
+      "sample",
+      "math"
+    ],
+    "__v": 0,
+    "createdAt": "2025-10-05T07:31:30.412Z",
+    "updatedAt": "2025-10-05T07:31:30.412Z"
+  },
+  {
+    "_id": "68e21ed220e29217c361112a",
+    "text": "Sample question 15: What is 15 + 15?",
+    "options": [
+      "15",
+      "30",
+      "16",
+      "14"
+    ],
+    "correctOptionIndex": 1,
+    "tags": [
+      "sample",
+      "math"
+    ],
+    "__v": 0,
+    "createdAt": "2025-10-05T07:31:30.412Z",
+    "updatedAt": "2025-10-05T07:31:30.412Z"
+  },
+  {
+    "_id": "68e21ed220e29217c361112b",
+    "text": "Sample question 16: What is 16 + 16?",
+    "options": [
+      "16",
+      "32",
+      "17",
+      "15"
+    ],
+    "correctOptionIndex": 1,
+    "tags": [
+      "sample",
+      "math"
+    ],
+    "__v": 0,
+    "createdAt": "2025-10-05T07:31:30.412Z",
+    "updatedAt": "2025-10-05T07:31:30.412Z"
+  },
+  {
+    "_id": "68e21ed220e29217c361112c",
+    "text": "Sample question 17: What is 17 + 17?",
+    "options": [
+      "17",
+      "34",
+      "18",
+      "16"
+    ],
+    "correctOptionIndex": 1,
+    "tags": [
+      "sample",
+      "math"
+    ],
+    "__v": 0,
+    "createdAt": "2025-10-05T07:31:30.412Z",
+    "updatedAt": "2025-10-05T07:31:30.412Z"
+  },
+  {
+    "_id": "68e21ed220e29217c361112d",
+    "text": "Sample question 18: What is 18 + 18?",
+    "options": [
+      "18",
+      "36",
+      "19",
+      "17"
+    ],
+    "correctOptionIndex": 1,
+    "tags": [
+      "sample",
+      "math"
+    ],
+    "__v": 0,
+    "createdAt": "2025-10-05T07:31:30.412Z",
+    "updatedAt": "2025-10-05T07:31:30.412Z"
+  },
+  {
+    "_id": "68e21ed220e29217c361112e",
+    "text": "Sample question 19: What is 19 + 19?",
+    "options": [
+      "19",
+      "38",
+      "20",
+      "18"
+    ],
+    "correctOptionIndex": 1,
+    "tags": [
+      "sample",
+      "math"
+    ],
+    "__v": 0,
+    "createdAt": "2025-10-05T07:31:30.412Z",
+    "updatedAt": "2025-10-05T07:31:30.412Z"
+  },
+  {
+    "_id": "68e21ed220e29217c361112f",
+    "text": "Sample question 20: What is 20 + 20?",
+    "options": [
+      "20",
+      "40",
+      "21",
+      "19"
+    ],
+    "correctOptionIndex": 1,
+    "tags": [
+      "sample",
+      "math"
+    ],
+    "__v": 0,
+    "createdAt": "2025-10-05T07:31:30.412Z",
+    "updatedAt": "2025-10-05T07:31:30.412Z"
+  },
+  {
+    "_id": "68e21ed220e29217c3611130",
+    "text": "Sample question 21: What is 21 + 21?",
+    "options": [
+      "21",
+      "42",
+      "22",
+      "20"
+    ],
+    "correctOptionIndex": 1,
+    "tags": [
+      "sample",
+      "math"
+    ],
+    "__v": 0,
+    "createdAt": "2025-10-05T07:31:30.412Z",
+    "updatedAt": "2025-10-05T07:31:30.412Z"
+  },
+  {
+    "_id": "68e21ed220e29217c3611131",
+    "text": "Sample question 22: What is 22 + 22?",
+    "options": [
+      "22",
+      "44",
+      "23",
+      "21"
+    ],
+    "correctOptionIndex": 1,
+    "tags": [
+      "sample",
+      "math"
+    ],
+    "__v": 0,
+    "createdAt": "2025-10-05T07:31:30.413Z",
+    "updatedAt": "2025-10-05T07:31:30.413Z"
+  },
+  {
+    "_id": "68e21ed220e29217c3611132",
+    "text": "Sample question 23: What is 23 + 23?",
+    "options": [
+      "23",
+      "46",
+      "24",
+      "22"
+    ],
+    "correctOptionIndex": 1,
+    "tags": [
+      "sample",
+      "math"
+    ],
+    "__v": 0,
+    "createdAt": "2025-10-05T07:31:30.413Z",
+    "updatedAt": "2025-10-05T07:31:30.413Z"
+  },
+  {
+    "_id": "68e21ed220e29217c3611133",
+    "text": "Sample question 24: What is 24 + 24?",
+    "options": [
+      "24",
+      "48",
+      "25",
+      "23"
+    ],
+    "correctOptionIndex": 1,
+    "tags": [
+      "sample",
+      "math"
+    ],
+    "__v": 0,
+    "createdAt": "2025-10-05T07:31:30.413Z",
+    "updatedAt": "2025-10-05T07:31:30.413Z"
+  },
+  {
+    "_id": "68e21ed220e29217c3611134",
+    "text": "Sample question 25: What is 25 + 25?",
+    "options": [
+      "25",
+      "50",
+      "26",
+      "24"
+    ],
+    "correctOptionIndex": 1,
+    "tags": [
+      "sample",
+      "math"
+    ],
+    "__v": 0,
+    "createdAt": "2025-10-05T07:31:30.413Z",
+    "updatedAt": "2025-10-05T07:31:30.413Z"
+  },
+  {
+    "_id": "68e21ed220e29217c3611135",
+    "text": "Sample question 26: What is 26 + 26?",
+    "options": [
+      "26",
+      "52",
+      "27",
+      "25"
+    ],
+    "correctOptionIndex": 1,
+    "tags": [
+      "sample",
+      "math"
+    ],
+    "__v": 0,
+    "createdAt": "2025-10-05T07:31:30.413Z",
+    "updatedAt": "2025-10-05T07:31:30.413Z"
+  },
+  {
+    "_id": "68e21ed220e29217c3611136",
+    "text": "Sample question 27: What is 27 + 27?",
+    "options": [
+      "27",
+      "54",
+      "28",
+      "26"
+    ],
+    "correctOptionIndex": 1,
+    "tags": [
+      "sample",
+      "math"
+    ],
+    "__v": 0,
+    "createdAt": "2025-10-05T07:31:30.413Z",
+    "updatedAt": "2025-10-05T07:31:30.413Z"
+  },
+  {
+    "_id": "68e21ed220e29217c3611137",
+    "text": "Sample question 28: What is 28 + 28?",
+    "options": [
+      "28",
+      "56",
+      "29",
+      "27"
+    ],
+    "correctOptionIndex": 1,
+    "tags": [
+      "sample",
+      "math"
+    ],
+    "__v": 0,
+    "createdAt": "2025-10-05T07:31:30.413Z",
+    "updatedAt": "2025-10-05T07:31:30.413Z"
+  },
+  {
+    "_id": "68e21ed220e29217c3611138",
+    "text": "Sample question 29: What is 29 + 29?",
+    "options": [
+      "29",
+      "58",
+      "30",
+      "28"
+    ],
+    "correctOptionIndex": 1,
+    "tags": [
+      "sample",
+      "math"
+    ],
+    "__v": 0,
+    "createdAt": "2025-10-05T07:31:30.413Z",
+    "updatedAt": "2025-10-05T07:31:30.413Z"
+  },
+  {
+    "_id": "68e21ed220e29217c3611139",
+    "text": "Sample question 30: What is 30 + 30?",
+    "options": [
+      "30",
+      "60",
+      "31",
+      "29"
+    ],
+    "correctOptionIndex": 1,
+    "tags": [
+      "sample",
+      "math"
+    ],
+    "__v": 0,
+    "createdAt": "2025-10-05T07:31:30.413Z",
+    "updatedAt": "2025-10-05T07:31:30.413Z"
+  },
+  {
+    "_id": "68e22126924448cb8a5b10c3",
+    "text": "Which gas is most abundant in the Earth's atmosphere?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon Dioxide",
+      "Hydrogen"
+    ],
+    "correctOptionIndex": 1,
+    "tags": [
+      "seed"
+    ],
+    "explanation": "",
+    "createdAt": "2025-10-05T07:41:26.874Z",
+    "updatedAt": "2025-10-05T07:41:26.874Z",
+    "__v": 0
+  },
+  {
+    "_id": "68e22126924448cb8a5b10c5",
+    "text": "What is the chemical symbol for water?",
+    "options": [
+      "WO",
+      "H2O",
+      "O2H",
+      "HO2"
+    ],
+    "correctOptionIndex": 1,
+    "tags": [
+      "seed"
+    ],
+    "explanation": "",
+    "createdAt": "2025-10-05T07:41:26.883Z",
+    "updatedAt": "2025-10-05T07:41:26.883Z",
+    "__v": 0
+  },
+  {
+    "_id": "68e22126924448cb8a5b10c7",
+    "text": "Which organ in the human body pumps blood?",
+    "options": [
+      "Liver",
+      "Lungs",
+      "Heart",
+      "Kidney"
+    ],
+    "correctOptionIndex": 2,
+    "tags": [
+      "seed"
+    ],
+    "explanation": "",
+    "createdAt": "2025-10-05T07:41:26.886Z",
+    "updatedAt": "2025-10-05T07:41:26.886Z",
+    "__v": 0
+  },
+  {
+    "_id": "68e22126924448cb8a5b10cb",
+    "text": "Who was the first Emperor of Rome?",
+    "options": [
+      "Julius Caesar",
+      "Augustus",
+      "Nero",
+      "Caligula"
+    ],
+    "correctOptionIndex": 1,
+    "tags": [
+      "seed"
+    ],
+    "explanation": "",
+    "createdAt": "2025-10-05T07:41:26.892Z",
+    "updatedAt": "2025-10-05T07:41:26.892Z",
+    "__v": 0
+  },
+  {
+    "_id": "68e22126924448cb8a5b10cd",
+    "text": "In which year did World War II end?",
+    "options": [
+      "1940",
+      "1945",
+      "1939",
+      "1950"
+    ],
+    "correctOptionIndex": 1,
+    "tags": [
+      "seed"
+    ],
+    "explanation": "",
+    "createdAt": "2025-10-05T07:41:26.894Z",
+    "updatedAt": "2025-10-05T07:41:26.894Z",
+    "__v": 0
+  },
+  {
+    "_id": "68e22126924448cb8a5b10cf",
+    "text": "The Great Wall is located in which country?",
+    "options": [
+      "India",
+      "China",
+      "Japan",
+      "Mongolia"
+    ],
+    "correctOptionIndex": 1,
+    "tags": [
+      "seed"
+    ],
+    "explanation": "",
+    "createdAt": "2025-10-05T07:41:26.895Z",
+    "updatedAt": "2025-10-05T07:41:26.895Z",
+    "__v": 0
+  },
+  {
+    "_id": "68e22126924448cb8a5b10d3",
+    "text": "Which is the largest ocean on Earth?",
+    "options": [
+      "Atlantic",
+      "Indian",
+      "Arctic",
+      "Pacific"
+    ],
+    "correctOptionIndex": 3,
+    "tags": [
+      "seed"
+    ],
+    "explanation": "",
+    "createdAt": "2025-10-05T07:41:26.899Z",
+    "updatedAt": "2025-10-05T07:41:26.899Z",
+    "__v": 0
+  },
+  {
+    "_id": "68e22126924448cb8a5b10d5",
+    "text": "Which country has the city of Cairo?",
+    "options": [
+      "Egypt",
+      "Morocco",
+      "Algeria",
+      "Tunisia"
+    ],
+    "correctOptionIndex": 0,
+    "tags": [
+      "seed"
+    ],
+    "explanation": "",
+    "createdAt": "2025-10-05T07:41:26.901Z",
+    "updatedAt": "2025-10-05T07:41:26.901Z",
+    "__v": 0
+  },
+  {
+    "_id": "68e22126924448cb8a5b10d7",
+    "text": "Mount Everest is part of which mountain range?",
+    "options": [
+      "Andes",
+      "Rockies",
+      "Himalayas",
+      "Alps"
+    ],
+    "correctOptionIndex": 2,
+    "tags": [
+      "seed"
+    ],
+    "explanation": "",
+    "createdAt": "2025-10-05T07:41:26.902Z",
+    "updatedAt": "2025-10-05T07:41:26.902Z",
+    "__v": 0
+  },
+  {
+    "_id": "68e22126924448cb8a5b10db",
+    "text": "What is the antonym of \"ancient\"?",
+    "options": [
+      "old",
+      "modern",
+      "archaic",
+      "aged"
+    ],
+    "correctOptionIndex": 1,
+    "tags": [
+      "seed"
+    ],
+    "explanation": "",
+    "createdAt": "2025-10-05T07:41:26.903Z",
+    "updatedAt": "2025-10-05T07:41:26.903Z",
+    "__v": 0
+  },
+  {
+    "_id": "68e22126924448cb8a5b10dd",
+    "text": "Which is a noun in this sentence: \"The cat slept.\"?",
+    "options": [
+      "The",
+      "cat",
+      "slept",
+      "none"
+    ],
+    "correctOptionIndex": 1,
+    "tags": [
+      "seed"
+    ],
+    "explanation": "",
+    "createdAt": "2025-10-05T07:41:26.904Z",
+    "updatedAt": "2025-10-05T07:41:26.904Z",
+    "__v": 0
+  },
+  {
+    "_id": "68e22126924448cb8a5b10df",
+    "text": "Choose the correct past tense of \"go\".",
+    "options": [
+      "goed",
+      "went",
+      "gone",
+      "goes"
+    ],
+    "correctOptionIndex": 1,
+    "tags": [
+      "seed"
+    ],
+    "explanation": "",
+    "createdAt": "2025-10-05T07:41:26.906Z",
+    "updatedAt": "2025-10-05T07:41:26.906Z",
+    "__v": 0
+  },
+  {
+    "_id": "68e22126924448cb8a5b10e3",
+    "text": "What does CPU stand for?",
+    "options": [
+      "Central Process Unit",
+      "Central Processing Unit",
+      "Computer Personal Unit",
+      "Control Processing Unit"
+    ],
+    "correctOptionIndex": 1,
+    "tags": [
+      "seed"
+    ],
+    "explanation": "",
+    "createdAt": "2025-10-05T07:41:26.910Z",
+    "updatedAt": "2025-10-05T07:41:26.910Z",
+    "__v": 0
+  },
+  {
+    "_id": "68e22126924448cb8a5b10e5",
+    "text": "Which data structure uses FIFO order?",
+    "options": [
+      "Stack",
+      "Queue",
+      "Tree",
+      "Graph"
+    ],
+    "correctOptionIndex": 1,
+    "tags": [
+      "seed"
+    ],
+    "explanation": "",
+    "createdAt": "2025-10-05T07:41:26.911Z",
+    "updatedAt": "2025-10-05T07:41:26.911Z",
+    "__v": 0
+  },
+  {
+    "_id": "68e22126924448cb8a5b10e7",
+    "text": "HTML is primarily used for?",
+    "options": [
+      "Styling",
+      "Structure of web pages",
+      "Server-side logic",
+      "Database queries"
+    ],
+    "correctOptionIndex": 1,
+    "tags": [
+      "seed"
+    ],
+    "explanation": "",
+    "createdAt": "2025-10-05T07:41:26.912Z",
+    "updatedAt": "2025-10-05T07:41:26.912Z",
+    "__v": 0
+  },
+  {
+    "_id": "68e22126924448cb8a5b10eb",
+    "text": "What is the SI unit of force?",
+    "options": [
+      "Newton",
+      "Joule",
+      "Watt",
+      "Pascal"
+    ],
+    "correctOptionIndex": 0,
+    "tags": [
+      "seed"
+    ],
+    "explanation": "",
+    "createdAt": "2025-10-05T07:41:26.917Z",
+    "updatedAt": "2025-10-05T07:41:26.917Z",
+    "__v": 0
+  },
+  {
+    "_id": "68e22126924448cb8a5b10ed",
+    "text": "Sound travels fastest in which medium?",
+    "options": [
+      "Air",
+      "Vacuum",
+      "Water",
+      "Solids"
+    ],
+    "correctOptionIndex": 3,
+    "tags": [
+      "seed"
+    ],
+    "explanation": "",
+    "createdAt": "2025-10-05T07:41:26.918Z",
+    "updatedAt": "2025-10-05T07:41:26.918Z",
+    "__v": 0
+  },
+  {
+    "_id": "68e22126924448cb8a5b10ef",
+    "text": "What is acceleration due to gravity on Earth (approx)?",
+    "options": [
+      "9.8 m/s^2",
+      "1 m/s^2",
+      "98 m/s^2",
+      "0.98 m/s^2"
+    ],
+    "correctOptionIndex": 0,
+    "tags": [
+      "seed"
+    ],
+    "explanation": "",
+    "createdAt": "2025-10-05T07:41:26.919Z",
+    "updatedAt": "2025-10-05T07:41:26.919Z",
+    "__v": 0
+  },
+  {
+    "_id": "68e22126924448cb8a5b10f3",
+    "text": "pH value of 7 indicates?",
+    "options": [
+      "Acidic",
+      "Neutral",
+      "Basic",
+      "Alkaline"
+    ],
+    "correctOptionIndex": 1,
+    "tags": [
+      "seed"
+    ],
+    "explanation": "",
+    "createdAt": "2025-10-05T07:41:26.921Z",
+    "updatedAt": "2025-10-05T07:41:26.921Z",
+    "__v": 0
+  },
+  {
+    "_id": "68e22126924448cb8a5b10f5",
+    "text": "Table salt is chemically known as?",
+    "options": [
+      "Sodium Chloride",
+      "Potassium Chloride",
+      "Calcium Carbonate",
+      "Sodium Bicarbonate"
+    ],
+    "correctOptionIndex": 0,
+    "tags": [
+      "seed"
+    ],
+    "explanation": "",
+    "createdAt": "2025-10-05T07:41:26.923Z",
+    "updatedAt": "2025-10-05T07:41:26.923Z",
+    "__v": 0
+  },
+  {
+    "_id": "68e22126924448cb8a5b10f7",
+    "text": "Which element has atomic number 1?",
+    "options": [
+      "Helium",
+      "Hydrogen",
+      "Oxygen",
+      "Carbon"
+    ],
+    "correctOptionIndex": 1,
+    "tags": [
+      "seed"
+    ],
+    "explanation": "",
+    "createdAt": "2025-10-05T07:41:26.925Z",
+    "updatedAt": "2025-10-05T07:41:26.925Z",
+    "__v": 0
+  },
+  {
+    "_id": "68e22126924448cb8a5b10fb",
+    "text": "Photosynthesis primarily occurs in which part of a plant?",
+    "options": [
+      "Root",
+      "Stem",
+      "Leaf",
+      "Flower"
+    ],
+    "correctOptionIndex": 2,
+    "tags": [
+      "seed"
+    ],
+    "explanation": "",
+    "createdAt": "2025-10-05T07:41:26.928Z",
+    "updatedAt": "2025-10-05T07:41:26.928Z",
+    "__v": 0
+  },
+  {
+    "_id": "68e22126924448cb8a5b10fd",
+    "text": "Which blood cells help fight infections?",
+    "options": [
+      "Red blood cells",
+      "Platelets",
+      "White blood cells",
+      "Plasma"
+    ],
+    "correctOptionIndex": 2,
+    "tags": [
+      "seed"
+    ],
+    "explanation": "",
+    "createdAt": "2025-10-05T07:41:26.929Z",
+    "updatedAt": "2025-10-05T07:41:26.929Z",
+    "__v": 0
+  },
+  {
+    "_id": "68e22126924448cb8a5b10ff",
+    "text": "DNA stands for?",
+    "options": [
+      "Deoxyribonucleic Acid",
+      "Deoxy RNA Acid",
+      "Ribonucleic Acid",
+      "Deoxyribo Acid"
+    ],
+    "correctOptionIndex": 0,
+    "tags": [
+      "seed"
+    ],
+    "explanation": "",
+    "createdAt": "2025-10-05T07:41:26.932Z",
+    "updatedAt": "2025-10-05T07:41:26.932Z",
+    "__v": 0
+  },
+  {
+    "_id": "68e22126924448cb8a5b1103",
+    "text": "GDP stands for?",
+    "options": [
+      "Gross Domestic Product",
+      "General Domestic Product",
+      "Gross Domestic Price",
+      "General Domestic Price"
+    ],
+    "correctOptionIndex": 0,
+    "tags": [
+      "seed"
+    ],
+    "explanation": "",
+    "createdAt": "2025-10-05T07:41:26.936Z",
+    "updatedAt": "2025-10-05T07:41:26.936Z",
+    "__v": 0
+  },
+  {
+    "_id": "68e22126924448cb8a5b1105",
+    "text": "Inflation means?",
+    "options": [
+      "Price stability",
+      "General rise in prices",
+      "Decrease in prices",
+      "No change in prices"
+    ],
+    "correctOptionIndex": 1,
+    "tags": [
+      "seed"
+    ],
+    "explanation": "",
+    "createdAt": "2025-10-05T07:41:26.939Z",
+    "updatedAt": "2025-10-05T07:41:26.939Z",
+    "__v": 0
+  },
+  {
+    "_id": "68e22126924448cb8a5b1107",
+    "text": "Which is a monetary policy tool?",
+    "options": [
+      "Taxation",
+      "Open market operations",
+      "Subsidies",
+      "Budget allocation"
+    ],
+    "correctOptionIndex": 1,
+    "tags": [
+      "seed"
+    ],
+    "explanation": "",
+    "createdAt": "2025-10-05T07:41:26.941Z",
+    "updatedAt": "2025-10-05T07:41:26.941Z",
+    "__v": 0
+  },
+  {
+    "_id": "68e22126924448cb8a5b110b",
+    "text": "The Mona Lisa was painted by?",
+    "options": [
+      "Van Gogh",
+      "Picasso",
+      "Leonardo da Vinci",
+      "Rembrandt"
+    ],
+    "correctOptionIndex": 2,
+    "tags": [
+      "seed"
+    ],
+    "explanation": "",
+    "createdAt": "2025-10-05T07:41:26.944Z",
+    "updatedAt": "2025-10-05T07:41:26.944Z",
+    "__v": 0
+  },
+  {
+    "_id": "68e22126924448cb8a5b110d",
+    "text": "The traditional Japanese theater is called?",
+    "options": [
+      "Kabuki",
+      "Ballet",
+      "Opera",
+      "Salsa"
+    ],
+    "correctOptionIndex": 0,
+    "tags": [
+      "seed"
+    ],
+    "explanation": "",
+    "createdAt": "2025-10-05T07:41:26.945Z",
+    "updatedAt": "2025-10-05T07:41:26.945Z",
+    "__v": 0
+  },
+  {
+    "_id": "68e22126924448cb8a5b110f",
+    "text": "Which instrument is a string instrument?",
+    "options": [
+      "Flute",
+      "Violin",
+      "Trumpet",
+      "Timpani"
+    ],
+    "correctOptionIndex": 1,
+    "tags": [
+      "seed"
+    ],
+    "explanation": "",
+    "createdAt": "2025-10-05T07:41:26.948Z",
+    "updatedAt": "2025-10-05T07:41:26.948Z",
+    "__v": 0
+  }
+]

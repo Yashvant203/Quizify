@@ -1,0 +1,19 @@
+[
+  {
+    "_id": "68e2120337bf7e61bd5b4ad5",
+    "name": "Admin User",
+    "email": "admin@example.com",
+    "password": "$2a$10$7qjQH2yWk/abc123hashedpassword",
+    "role": "admin"
+  },
+  {
+    "_id": "68e21e3b603dfbe46467c364",
+    "name": "Demo User",
+    "email": "demo@example.com",
+    "password": "$2b$10$A/cT.AXRffAlSfiO6doMi.FmB41EoX9/nAkYiZBnJicRI1e0I/oIi",
+    "role": "student",
+    "createdAt": "2025-10-05T07:28:59.299Z",
+    "updatedAt": "2025-10-05T07:28:59.299Z",
+    "__v": 0
+  }
+]
