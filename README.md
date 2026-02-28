@@ -6,9 +6,8 @@
 2. `npm init -y`
 3. `npm i express mongoose bcryptjs jsonwebtoken dotenv cors express-validator morgan`
 4. `npm i -D nodemon`
-5. Copy `.env.example` to `.env` and fill the values.
-6. Run DB (local MongoDB) or use MongoDB Atlas and set `MONGO_URI`.
-7. `npm run dev` to start the server in development.
+5. Run DB (local MongoDB) or use MongoDB Atlas and set `MONGO_URI`.
+6. `npm run dev` to start the server in development.
 
 ## Notes
 - Add unique index for users.email in MongoDB or via Mongoose schema.
